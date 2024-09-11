@@ -1,9 +1,9 @@
-name: 'Zip Release'
-author: 'TheDoctor0'
+name: 'Zip Release Fork'
+author: 'JellyBrick'
 branding:
   icon: 'archive'
   color: 'yellow'
-description: 'Make an archive from specified files and directories as workflow action'
+description: 'Make an archive from specified files and directories as workflow action (forked from TheDoctor0/zip-release)'
 inputs:
   filename:
     description: 'Filename for archive'
